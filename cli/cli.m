@@ -9,6 +9,7 @@ int main (int argc, const char * argv[]) {
     [pool drain];*/
 	Employee *employee = [[Employee alloc]init];
 	NSLog([employee getFullName]);
+		NSLog([employee getFullName]);
 	[employee release];
     return 0;
 }
