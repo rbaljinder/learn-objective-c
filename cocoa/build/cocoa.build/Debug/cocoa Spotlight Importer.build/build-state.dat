@@ -1,0 +1,158 @@
+Tcocoa Spotlight Importer
+v7
+r0
+t342223191.859603
+cCheck dependencies
+cProcessInfoPlistFile /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter/Contents/Info.plist Importer/Importer-Info.plist
+cCompileC "build/cocoa.build/Debug/cocoa Spotlight Importer.build/Objects-normal/x86_64/GetMetadataForFile.o" /Users/baljinder/objective-c/cocoa/Importer/GetMetadataForFile.c normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/cocoa.build/Debug/cocoa Spotlight Importer.build/Objects-normal/x86_64/main.o" /Users/baljinder/objective-c/cocoa/Importer/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter/Contents/MacOS/cocoa normal x86_64
+cTouch /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BA36F13000000000000043A
+t1269002003
+s1082
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFPlugInCOM.h
+c000000004B90C8A60000000000000E87
+t1267779750
+s3719
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004B90C8A60000000000000AF4
+t1267779750
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004B90FA5D0000000000000401
+t1267792477
+s1025
+
+N/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004E8D7E280000000000584B00
+t1317895720
+s5786368
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E8D7E9B000000000060E710
+t1317895835
+s6350608
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004E96D980000000000000B870
+t1318508928
+s47216
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E8D7F560000000000942480
+t1317896022
+s9708672
+
+N/Users/baljinder/objective-c/cocoa/Importer/GetMetadataForFile.c
+c000000004EB5A20500000000000007CB
+t1320526341
+s1995
+i<CoreFoundation/CoreFoundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/baljinder/objective-c/cocoa/Importer/main.c
+c000000004EB5A205000000000000208A
+t1320526341
+s8330
+i<CoreFoundation/CoreFoundation.h>
+i<CoreFoundation/CFPlugInCOM.h>
+i<CoreServices/CoreServices.h>
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter
+t1320530391
+s102
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter/Contents/Info.plist
+t1320530386
+s1342
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter/Contents/MacOS/cocoa
+t1320530391
+s15816
+
+N/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa Spotlight Importer.build/Objects-normal/x86_64/GetMetadataForFile.o
+t1320530391
+s10392
+
+N/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa Spotlight Importer.build/Objects-normal/x86_64/cocoa.LinkFileList
+c000000004EB5B1D200000000000000FC
+t1320530386
+s252
+
+N/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa Spotlight Importer.build/Objects-normal/x86_64/main.o
+t1320530390
+s11184
+
+NImporter/Importer-Info.plist
+c000000004EB5A2050000000000000993
+t1320526341
+s2451
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342223186#342223186#0(0"0(0#1#0"4478829856#0"0#
+
+CCompileC "build/cocoa.build/Debug/cocoa Spotlight Importer.build/Objects-normal/x86_64/GetMetadataForFile.o" /Users/baljinder/objective-c/cocoa/Importer/GetMetadataForFile.c normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s342223186.256879
+e342223191.319193
+r1
+xCompileC
+xbuild/cocoa.build/Debug/cocoa Spotlight Importer.build/Objects-normal/x86_64/GetMetadataForFile.o
+x/Users/baljinder/objective-c/cocoa/Importer/GetMetadataForFile.c
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/baljinder/objective-c/cocoa/Importer/GetMetadataForFile.c342223186#342223191#0(0"0(0#0#64"/Users/baljinder/objective-c/cocoa/Importer/GetMetadataForFile.c4478828128#987"    cd /Users/baljinder/objective-c/cocoa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa Spotlight Importer.build/cocoa.hmap" -F/Users/baljinder/objective-c/cocoa/build/Debug -I/Users/baljinder/objective-c/cocoa/build/Debug/include "-I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa Spotlight Importer.build/DerivedSources/x86_64" "-I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa Spotlight Importer.build/DerivedSources" -c /Users/baljinder/objective-c/cocoa/Importer/GetMetadataForFile.c -o "/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa Spotlight Importer.build/Objects-normal/x86_64/GetMetadataForFile.o"0#
+
+CCompileC "build/cocoa.build/Debug/cocoa Spotlight Importer.build/Objects-normal/x86_64/main.o" /Users/baljinder/objective-c/cocoa/Importer/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s342223186.257792
+e342223190.182377
+r1
+xCompileC
+xbuild/cocoa.build/Debug/cocoa Spotlight Importer.build/Objects-normal/x86_64/main.o
+x/Users/baljinder/objective-c/cocoa/Importer/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/baljinder/objective-c/cocoa/Importer/main.c342223186#342223190#0(0"0(0#0#50"/Users/baljinder/objective-c/cocoa/Importer/main.c4478828128#949"    cd /Users/baljinder/objective-c/cocoa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa Spotlight Importer.build/cocoa.hmap" -F/Users/baljinder/objective-c/cocoa/build/Debug -I/Users/baljinder/objective-c/cocoa/build/Debug/include "-I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa Spotlight Importer.build/DerivedSources/x86_64" "-I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa Spotlight Importer.build/DerivedSources" -c /Users/baljinder/objective-c/cocoa/Importer/main.c -o "/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa Spotlight Importer.build/Objects-normal/x86_64/main.o"0#
+
+CLd /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter/Contents/MacOS/cocoa normal x86_64
+s342223191.319282
+e342223191.804659
+r1
+xLd
+x/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter/Contents/MacOS/cocoa
+xnormal
+xx86_64
+lSLF07#2@89"Link /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter/Contents/MacOS/cocoa342223191#342223191#0(0"0(0#0#0"4478828128#623"    cd /Users/baljinder/objective-c/cocoa    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/baljinder/objective-c/cocoa/build/Debug -F/Users/baljinder/objective-c/cocoa/build/Debug -filelist "/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa Spotlight Importer.build/Objects-normal/x86_64/cocoa.LinkFileList" -mmacosx-version-min=10.6 -framework CoreFoundation -framework CoreData -framework Foundation -framework CoreServices -o /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter/Contents/MacOS/cocoa0#
+
+CProcessInfoPlistFile /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter/Contents/Info.plist Importer/Importer-Info.plist
+s342223186.253654
+e342223186.256799
+r1
+xProcessInfoPlistFile
+x/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter/Contents/Info.plist
+xImporter/Importer-Info.plist
+lSLF07#2@36"Process Importer/Importer-Info.plist342223186#342223186#0(0"0(0#0#63"/Users/baljinder/objective-c/cocoa/Importer/Importer-Info.plist4478828224#225"    cd /Users/baljinder/objective-c/cocoa    builtin-infoPlistUtility Importer/Importer-Info.plist -expandbuildsettings -platform macosx -o /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter/Contents/Info.plist0#
+
+CTouch /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter
+s342223191.804898
+e342223191.859542
+r1
+xTouch
+x/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter
+lSLF07#2@69"Touch /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter342223191#342223191#0(0"0(0#0#0"4478828128#128"    cd /Users/baljinder/objective-c/cocoa    /usr/bin/touch -c /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter0#
+

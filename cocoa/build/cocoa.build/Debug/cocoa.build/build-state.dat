@@ -1,0 +1,361 @@
+Tcocoa
+v7
+r0
+t342223235.968993
+cCheck dependencies
+cProcessInfoPlistFile /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Info.plist cocoa-Info.plist
+cCpResource build/Debug/cocoa.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cCopyStringsFile /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/baljinder/objective-c/cocoa/English.lproj/MainMenu.xib
+cCompileXIB /Users/baljinder/objective-c/cocoa/English.lproj/MyDocument.xib
+cProcessPCH /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cocoa_Prefix-fjnfuiokdmcnbrfkjqambavkcuny/cocoa_Prefix.pch.gch cocoa_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/MyDocument.mom /Users/baljinder/objective-c/cocoa/MyDocument.xcdatamodel
+cCompileC build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/main.o /Users/baljinder/objective-c/cocoa/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/Employee.o /Users/baljinder/objective-c/cocoa/Employee.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/TestRun.o /Users/baljinder/objective-c/cocoa/TestRun.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/MacOS/cocoa normal x86_64
+cPBXCp build/Debug/cocoa.app/Contents/Resources/../Library/Spotlight/cocoa.mdimporter build/Debug/cocoa.mdimporter
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BA36F13000000000000043A
+t1269002003
+s1082
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E26ED6A0000000000006560
+t1311173994
+s25952
+
+N/Users/baljinder/objective-c/cocoa/Employee.h
+c000000004EB5AF85000000000000019B
+t1320529797
+s411
+i<Cocoa/Cocoa.h>
+
+N/Users/baljinder/objective-c/cocoa/Employee.m
+c000000004EB5AF58000000000000029B
+t1320529752
+s667
+i"Employee.h"
+
+N/Users/baljinder/objective-c/cocoa/English.lproj/Credits.rtf
+c000000004EB5A20500000000000001B4
+t1320526341
+s436
+
+N/Users/baljinder/objective-c/cocoa/English.lproj/InfoPlist.strings
+c000000004EB5A205000000000000005A
+t1320526341
+s90
+
+N/Users/baljinder/objective-c/cocoa/English.lproj/MainMenu.xib
+c000000004EB5A205000000000002170D
+t1320526341
+s136973
+
+N/Users/baljinder/objective-c/cocoa/English.lproj/MyDocument.xib
+c000000004EB5A2050000000000002C86
+t1320526341
+s11398
+
+N/Users/baljinder/objective-c/cocoa/MyDocument.h
+c000000004EB5A20500000000000000DF
+t1320526341
+s223
+i<Cocoa/Cocoa.h>
+
+N/Users/baljinder/objective-c/cocoa/MyDocument.m
+c000000004EB5A49300000000000002C8
+t1320526995
+s712
+i"MyDocument.h"
+
+N/Users/baljinder/objective-c/cocoa/MyDocument.xcdatamodel
+c000000004EB5A2050000000000000088
+t1320526341
+s136
+
+N/Users/baljinder/objective-c/cocoa/TestRun.h
+c000000004EB5AE3400000000000000CE
+t1320529460
+s206
+i<Cocoa/Cocoa.h>
+
+N/Users/baljinder/objective-c/cocoa/TestRun.m
+c000000004EB5B18B000000000000016E
+t1320530315
+s366
+i"Employee.m"
+i<Foundation/Foundation.h>
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app
+t2
+s0
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Info.plist
+t1320530391
+s2482
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/MacOS/cocoa
+t2
+s0
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/PkgInfo
+t1320530391
+s8
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/../Library/Spotlight/cocoa.mdimporter
+t1320530435
+s102
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/English.lproj/Credits.rtf
+t1320530392
+s436
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1320530393
+s90
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/English.lproj/MainMenu.nib
+t1320530395
+s30656
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/English.lproj/MyDocument.nib
+t1320530395
+s3612
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/MyDocument.mom
+t1320530428
+s488
+
+N/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter
+c000000004EB5B1D70000000000000066
+t1320530391
+s102
+
+N/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/Employee.o
+t1320530435
+s11540
+
+N/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+t2
+s0
+
+N/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/TestRun.o
+t1320530435
+s12424
+
+N/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/cocoa.LinkFileList
+c000000004EB5B1D70000000000000133
+t1320530391
+s307
+
+N/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/main.o
+t1320530435
+s4984
+
+N/Users/baljinder/objective-c/cocoa/cocoa_Prefix.pch
+c000000004EB5A20500000000000000D5
+t1320526341
+s213
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/baljinder/objective-c/cocoa/main.m
+c000000004EB5A2050000000000000101
+t1320526341
+s257
+i<Cocoa/Cocoa.h>
+
+N/var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cocoa_Prefix-fjnfuiokdmcnbrfkjqambavkcuny/cocoa_Prefix.pch.gch
+t1320530427
+s54265616
+
+Ncocoa-Info.plist
+c000000004EB5A2050000000000000A64
+t1320526341
+s2660
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342223191#342223191#0(0"0(0#1#0"4478827904#0"0#
+
+CCompileC build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/Employee.o /Users/baljinder/objective-c/cocoa/Employee.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s342223228.561002
+e342223235.062285
+r1
+xCompileC
+xbuild/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/Employee.o
+x/Users/baljinder/objective-c/cocoa/Employee.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/baljinder/objective-c/cocoa/Employee.m342223228#342223235#0(0"0(0#0#45"/Users/baljinder/objective-c/cocoa/Employee.m4478828128#1036"    cd /Users/baljinder/objective-c/cocoa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/cocoa.hmap -F/Users/baljinder/objective-c/cocoa/build/Debug -I/Users/baljinder/objective-c/cocoa/build/Debug/include -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cocoa_Prefix-fjnfuiokdmcnbrfkjqambavkcuny/cocoa_Prefix.pch -c /Users/baljinder/objective-c/cocoa/Employee.m -o /Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/Employee.o0#
+
+CCompileC build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o /Users/baljinder/objective-c/cocoa/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s342222413.258812
+e342222417.599506
+r0
+xCompileC
+xbuild/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+x/Users/baljinder/objective-c/cocoa/MyDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/baljinder/objective-c/cocoa/MyDocument.m: In function '-[MyDocument windowNibName]':
+o/Users/baljinder/objective-c/cocoa/MyDocument.m:24: warning: 'MyDocument' may not respond to '-firstMethod'
+o/Users/baljinder/objective-c/cocoa/MyDocument.m:24: warning: (Messages without a matching method signature
+o/Users/baljinder/objective-c/cocoa/MyDocument.m:24: warning: will be assumed to return 'id' and accept
+o/Users/baljinder/objective-c/cocoa/MyDocument.m:24: warning: '...' as arguments.)
+o/Users/baljinder/objective-c/cocoa/MyDocument.m:24: warning: unused variable 'stringToReturn'
+o/Users/baljinder/objective-c/cocoa/MyDocument.m: At top level:
+o/Users/baljinder/objective-c/cocoa/MyDocument.m:35: error: expected '{' before '(' token
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+lSLF07#2@55"Compile /Users/baljinder/objective-c/cocoa/MyDocument.m342222413#342222417#0(1047"/Users/baljinder/objective-c/cocoa/MyDocument.m: In function '-[MyDocument windowNibName]':/Users/baljinder/objective-c/cocoa/MyDocument.m:24: warning: 'MyDocument' may not respond to '-firstMethod'/Users/baljinder/objective-c/cocoa/MyDocument.m:24: warning: (Messages without a matching method signature/Users/baljinder/objective-c/cocoa/MyDocument.m:24: warning: will be assumed to return 'id' and accept/Users/baljinder/objective-c/cocoa/MyDocument.m:24: warning: '...' as arguments.)/Users/baljinder/objective-c/cocoa/MyDocument.m:24: warning: unused variable 'stringToReturn'/Users/baljinder/objective-c/cocoa/MyDocument.m: At top level:/Users/baljinder/objective-c/cocoa/MyDocument.m:35: error: expected '{' before '(' token{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25(22@46"'MyDocument' may not respond to '-firstMethod'342222416#92#108#0(6@47"/Users/baljinder/objective-c/cocoa/MyDocument.m342219795#24#0#24#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)342222416#200#107#0(6@47"/Users/baljinder/objective-c/cocoa/MyDocument.m342219795#24#0#24#0#0"0(22@32"Unused variable 'stringToReturn'342222416#492#94#0(6@47"/Users/baljinder/objective-c/cocoa/MyDocument.m342219795#24#0#24#0#19"unused variable '*'0(23@13"At top level:342222416#586#63#0(6@47"/Users/baljinder/objective-c/cocoa/MyDocument.m342219795#0#0#0#0#0"0(4@29"Expected '{' before '(' token342222416#649#89#0(6@47"/Users/baljinder/objective-c/cocoa/MyDocument.m342219795#35#0#35#0#19"expected * before *0(0#0#47"/Users/baljinder/objective-c/cocoa/MyDocument.m4510973536#1057"    cd /Users/baljinder/objective-c/cocoa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/cocoa.hmap -F/Users/baljinder/objective-c/cocoa/build/Debug -I/Users/baljinder/objective-c/cocoa/build/Debug/include -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cocoa_Prefix-fjnfuiokdmcnbrfkjqambavkcuny/cocoa_Prefix.pch -c /Users/baljinder/objective-c/cocoa/MyDocument.m -o /Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o1#
+
+CCompileC build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/TestRun.o /Users/baljinder/objective-c/cocoa/TestRun.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s342223228.562214
+e342223235.062776
+r1
+xCompileC
+xbuild/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/TestRun.o
+x/Users/baljinder/objective-c/cocoa/TestRun.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/baljinder/objective-c/cocoa/TestRun.m342223228#342223235#0(0"0(0#0#44"/Users/baljinder/objective-c/cocoa/TestRun.m4478828128#1034"    cd /Users/baljinder/objective-c/cocoa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/cocoa.hmap -F/Users/baljinder/objective-c/cocoa/build/Debug -I/Users/baljinder/objective-c/cocoa/build/Debug/include -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cocoa_Prefix-fjnfuiokdmcnbrfkjqambavkcuny/cocoa_Prefix.pch -c /Users/baljinder/objective-c/cocoa/TestRun.m -o /Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/TestRun.o0#
+
+CCompileC build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/main.o /Users/baljinder/objective-c/cocoa/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s342223228.559230
+e342223235.062593
+r1
+xCompileC
+xbuild/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/main.o
+x/Users/baljinder/objective-c/cocoa/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/baljinder/objective-c/cocoa/main.m342223228#342223235#0(0"0(0#0#41"/Users/baljinder/objective-c/cocoa/main.m4478828128#1028"    cd /Users/baljinder/objective-c/cocoa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/cocoa.hmap -F/Users/baljinder/objective-c/cocoa/build/Debug -I/Users/baljinder/objective-c/cocoa/build/Debug/include -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cocoa_Prefix-fjnfuiokdmcnbrfkjqambavkcuny/cocoa_Prefix.pch -c /Users/baljinder/objective-c/cocoa/main.m -o /Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/baljinder/objective-c/cocoa/English.lproj/MainMenu.xib
+s342223191.969228
+e342223196.115258
+r1
+xCompileXIB
+x/Users/baljinder/objective-c/cocoa/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib342223191#342223196#0(0"0(0#0#61"/Users/baljinder/objective-c/cocoa/English.lproj/MainMenu.xib4478828128#350"    cd /Users/baljinder/objective-c/cocoa    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/English.lproj/MainMenu.nib /Users/baljinder/objective-c/cocoa/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/baljinder/objective-c/cocoa/English.lproj/MyDocument.xib
+s342223191.971495
+e342223196.165666
+r1
+xCompileXIB
+x/Users/baljinder/objective-c/cocoa/English.lproj/MyDocument.xib
+lSLF07#2@39"CompileXIB English.lproj/MyDocument.xib342223191#342223196#0(0"0(0#0#63"/Users/baljinder/objective-c/cocoa/English.lproj/MyDocument.xib4478828128#354"    cd /Users/baljinder/objective-c/cocoa    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/English.lproj/MyDocument.nib /Users/baljinder/objective-c/cocoa/English.lproj/MyDocument.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s342223191.967309
+e342223193.729998
+r1
+xCopyStringsFile
+x/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings342223191#342223193#0(0"0(0#0#66"/Users/baljinder/objective-c/cocoa/English.lproj/InfoPlist.strings4478828128#356"    cd /Users/baljinder/objective-c/cocoa    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/cocoa.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s342223191.966095
+e342223192.211312
+r1
+xCpResource
+xbuild/Debug/cocoa.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf342223191#342223192#0(0"0(0#0#60"/Users/baljinder/objective-c/cocoa/English.lproj/Credits.rtf4478828128#341"    cd /Users/baljinder/objective-c/cocoa    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/baljinder/objective-c/cocoa/English.lproj/Credits.rtf /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/English.lproj0#
+
+CDataModelCompile /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/MyDocument.mom /Users/baljinder/objective-c/cocoa/MyDocument.xcdatamodel
+s342223228.232905
+e342223228.857380
+r1
+xDataModelCompile
+x/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/MyDocument.mom
+x/Users/baljinder/objective-c/cocoa/MyDocument.xcdatamodel
+lSLF07#2@65"Compile /Users/baljinder/objective-c/cocoa/MyDocument.xcdatamodel342223228#342223228#0(0"0(0#0#57"/Users/baljinder/objective-c/cocoa/MyDocument.xcdatamodel4478828128#248"    cd /Users/baljinder/objective-c/cocoa    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/baljinder/objective-c/cocoa/MyDocument.xcdatamodel /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/MyDocument.mom0#
+
+CLd /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/MacOS/cocoa normal x86_64
+s342223235.062850
+e342223235.924720
+r0
+xLd
+x/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/MacOS/cocoa
+xnormal
+xx86_64
+old: duplicate symbol _main in /Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/TestRun.o and /Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/main.o
+ocollect2: ld returned 1 exit status
+lSLF07#2@82"Link /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/MacOS/cocoa342223235#342223235#0(332"ld: duplicate symbol _main in /Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/TestRun.o and /Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/main.ocollect2: ld returned 1 exit statusCommand /Developer/usr/bin/gcc-4.2 failed with exit code 12(13@232"Duplicate symbol _main in /Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/TestRun.o and /Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/main.o342223235#0#237#0(6@0"342223235#0#0#0#0#0"0(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1342223235#18446744073709551615#0#0(1@0"0(0#0#0"4478828128#512"    cd /Users/baljinder/objective-c/cocoa    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/baljinder/objective-c/cocoa/build/Debug -F/Users/baljinder/objective-c/cocoa/build/Debug -filelist /Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/Objects-normal/x86_64/cocoa.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/MacOS/cocoa1#
+
+CPBXCp build/Debug/cocoa.app/Contents/Resources/../Library/Spotlight/cocoa.mdimporter build/Debug/cocoa.mdimporter
+s342223235.924887
+e342223235.968913
+r1
+xPBXCp
+xbuild/Debug/cocoa.app/Contents/Resources/../Library/Spotlight/cocoa.mdimporter
+xbuild/Debug/cocoa.mdimporter
+lSLF07#2@33"Copy build/Debug/cocoa.mdimporter342223235#342223235#0(0"0(0#0#63"/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter4478828128#351"    cd /Users/baljinder/objective-c/cocoa    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.mdimporter /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Resources/../Library/Spotlight0#
+
+CProcessInfoPlistFile /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Info.plist cocoa-Info.plist
+s342223191.920754
+e342223191.965960
+r1
+xProcessInfoPlistFile
+x/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Info.plist
+xcocoa-Info.plist
+lSLF07#2@24"Process cocoa-Info.plist342223191#342223191#0(0"0(0#0#51"/Users/baljinder/objective-c/cocoa/cocoa-Info.plist4478828224#292"    cd /Users/baljinder/objective-c/cocoa    builtin-infoPlistUtility cocoa-Info.plist -genpkginfo /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cocoa_Prefix-fjnfuiokdmcnbrfkjqambavkcuny/cocoa_Prefix.pch.gch cocoa_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s342223196.165833
+e342223228.232772
+r1
+xProcessPCH
+x/var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cocoa_Prefix-fjnfuiokdmcnbrfkjqambavkcuny/cocoa_Prefix.pch.gch
+xcocoa_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile cocoa_Prefix.pch342223196#342223228#0(0"0(0#0#51"/Users/baljinder/objective-c/cocoa/cocoa_Prefix.pch4478828128#940"    cd /Users/baljinder/objective-c/cocoa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/cocoa.hmap -F/Users/baljinder/objective-c/cocoa/build/Debug -I/Users/baljinder/objective-c/cocoa/build/Debug/include -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/cocoa/build/cocoa.build/Debug/cocoa.build/DerivedSources -c /Users/baljinder/objective-c/cocoa/cocoa_Prefix.pch -o /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cocoa_Prefix-fjnfuiokdmcnbrfkjqambavkcuny/cocoa_Prefix.pch.gch0#
+
+CTouch /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app
+s342219668.066330
+e342219668.076363
+r1
+xTouch
+x/Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app
+lSLF07#2@62"Touch /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app342219668#342219668#0(0"0(0#0#0"4481359456#121"    cd /Users/baljinder/objective-c/cocoa    /usr/bin/touch -c /Users/baljinder/objective-c/cocoa/build/Debug/cocoa.app0#
+

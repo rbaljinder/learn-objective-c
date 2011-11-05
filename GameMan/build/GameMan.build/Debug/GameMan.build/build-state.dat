@@ -1,0 +1,381 @@
+TGameMan
+v7
+r0
+t342218369.599517
+cCheck dependencies
+cProcessInfoPlistFile /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Info.plist GameMan-Info.plist
+cCpResource build/Debug/GameMan.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cCopyStringsFile /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/baljinder/objective-c/GameMan/English.lproj/MainMenu.xib
+cCompileXIB /Users/baljinder/objective-c/GameMan/English.lproj/MyDocument.xib
+cProcessPCH /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-glosagigkzxjuyexzrkkxldxlkpx/GameMan_Prefix.pch.gch GameMan_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-ecmshhflvcrgqlarudtycehiwejm/GameMan_Prefix.pch.gch GameMan_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/MyDocument.mom /Users/baljinder/objective-c/GameMan/MyDocument.xcdatamodel
+cCompileC build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o /Users/baljinder/objective-c/GameMan/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/main.o /Users/baljinder/objective-c/GameMan/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/MyDocument-528B0CF58FE91DC2.o /Users/baljinder/objective-c/GameMan/MyDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/main.o /Users/baljinder/objective-c/GameMan/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/GameMan normal x86_64
+cLd /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/GameMan normal i386
+cCreateUniversalBinary /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/MacOS/GameMan normal "x86_64 i386"
+cPBXCp build/Debug/GameMan.app/Contents/Resources/../Library/Spotlight/GameMan.mdimporter build/Debug/GameMan.mdimporter
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BA36F13000000000000043A
+t1269002003
+s1082
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E26ED6A0000000000006560
+t1311173994
+s25952
+
+N/Users/baljinder/objective-c/GameMan/English.lproj/Credits.rtf
+c000000004AF3EAF800000000000001B4
+t1257499384
+s436
+
+N/Users/baljinder/objective-c/GameMan/English.lproj/InfoPlist.strings
+c000000004EB59DBA000000000000005A
+t1320525242
+s90
+
+N/Users/baljinder/objective-c/GameMan/English.lproj/MainMenu.xib
+c000000004EB59DBA0000000000021719
+t1320525242
+s136985
+
+N/Users/baljinder/objective-c/GameMan/English.lproj/MyDocument.xib
+c000000004EB59DBA0000000000002C86
+t1320525242
+s11398
+
+N/Users/baljinder/objective-c/GameMan/GameMan_Prefix.pch
+c000000004EB59DBA00000000000000D9
+t1320525242
+s217
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/baljinder/objective-c/GameMan/MyDocument.h
+c000000004EB59DBA00000000000000DF
+t1320525242
+s223
+i<Cocoa/Cocoa.h>
+
+N/Users/baljinder/objective-c/GameMan/MyDocument.m
+c000000004EB59DBA000000000000022B
+t1320525242
+s555
+i"MyDocument.h"
+
+N/Users/baljinder/objective-c/GameMan/MyDocument.xcdatamodel
+c000000004EB59DBA0000000000000088
+t1320525242
+s136
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app
+t1320525509
+s102
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Info.plist
+t1320525509
+s2488
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/MacOS/GameMan
+t1320525553
+s30244
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/PkgInfo
+t1320525509
+s8
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/../Library/Spotlight/GameMan.mdimporter
+t1320525569
+s102
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/English.lproj/Credits.rtf
+t1320525509
+s436
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1320525512
+s90
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/English.lproj/MainMenu.nib
+t1320525516
+s30678
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/English.lproj/MyDocument.nib
+t1320525516
+s3612
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/MyDocument.mom
+t2
+s0
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter
+c000000004EB59EC40000000000000066
+t1320525508
+s102
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/GameMan
+t1320525553
+s13860
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/GameMan.LinkFileList
+c000000004EB59EC400000000000000E7
+t1320525508
+s231
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/MyDocument-528B0CF58FE91DC2.o
+t1320525551
+s18236
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/main.o
+t1320525551
+s4852
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/GameMan
+t1320525553
+s10432
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/GameMan.LinkFileList
+c000000004EB59EC500000000000000EB
+t1320525509
+s235
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+t1320525549
+s19120
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/main.o
+t1320525549
+s4984
+
+N/Users/baljinder/objective-c/GameMan/main.m
+c000000004EB59DBA0000000000000101
+t1320525242
+s257
+i<Cocoa/Cocoa.h>
+
+N/var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-ecmshhflvcrgqlarudtycehiwejm/GameMan_Prefix.pch.gch
+t1320525546
+s56903472
+
+N/var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-glosagigkzxjuyexzrkkxldxlkpx/GameMan_Prefix.pch.gch
+t1320525546
+s54265616
+
+NGameMan-Info.plist
+c000000004EB59DBA0000000000000A64
+t1320525242
+s2660
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342218308#342218309#0(0"0(0#1#0"168#0"0#
+
+CCompileC build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/MyDocument-528B0CF58FE91DC2.o /Users/baljinder/objective-c/GameMan/MyDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342218348.055931
+e342218351.539239
+r1
+xCompileC
+xbuild/GameMan.build/Debug/GameMan.build/Objects-normal/i386/MyDocument-528B0CF58FE91DC2.o
+x/Users/baljinder/objective-c/GameMan/MyDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/baljinder/objective-c/GameMan/MyDocument.m342218348#342218351#0(0"0(0#0#49"/Users/baljinder/objective-c/GameMan/MyDocument.m168#1089"    cd /Users/baljinder/objective-c/GameMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/GameMan.hmap -F/Users/baljinder/objective-c/GameMan/build/Debug -I/Users/baljinder/objective-c/GameMan/build/Debug/include -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/DerivedSources/i386 -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-ecmshhflvcrgqlarudtycehiwejm/GameMan_Prefix.pch -c /Users/baljinder/objective-c/GameMan/MyDocument.m -o /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/MyDocument-528B0CF58FE91DC2.o0#
+
+CCompileC build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/main.o /Users/baljinder/objective-c/GameMan/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342218349.570846
+e342218351.539684
+r1
+xCompileC
+xbuild/GameMan.build/Debug/GameMan.build/Objects-normal/i386/main.o
+x/Users/baljinder/objective-c/GameMan/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/baljinder/objective-c/GameMan/main.m342218349#342218351#0(0"0(0#0#43"/Users/baljinder/objective-c/GameMan/main.m168#1060"    cd /Users/baljinder/objective-c/GameMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/GameMan.hmap -F/Users/baljinder/objective-c/GameMan/build/Debug -I/Users/baljinder/objective-c/GameMan/build/Debug/include -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/DerivedSources/i386 -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-ecmshhflvcrgqlarudtycehiwejm/GameMan_Prefix.pch -c /Users/baljinder/objective-c/GameMan/main.m -o /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/main.o0#
+
+CCompileC build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o /Users/baljinder/objective-c/GameMan/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s342218348.051839
+e342218349.775428
+r1
+xCompileC
+xbuild/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+x/Users/baljinder/objective-c/GameMan/MyDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/baljinder/objective-c/GameMan/MyDocument.m342218348#342218349#0(0"0(0#0#49"/Users/baljinder/objective-c/GameMan/MyDocument.m168#1095"    cd /Users/baljinder/objective-c/GameMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/GameMan.hmap -F/Users/baljinder/objective-c/GameMan/build/Debug -I/Users/baljinder/objective-c/GameMan/build/Debug/include -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-glosagigkzxjuyexzrkkxldxlkpx/GameMan_Prefix.pch -c /Users/baljinder/objective-c/GameMan/MyDocument.m -o /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o0#
+
+CCompileC build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/main.o /Users/baljinder/objective-c/GameMan/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s342218348.054903
+e342218349.570472
+r1
+xCompileC
+xbuild/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/main.o
+x/Users/baljinder/objective-c/GameMan/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/baljinder/objective-c/GameMan/main.m342218348#342218349#0(0"0(0#0#43"/Users/baljinder/objective-c/GameMan/main.m168#1066"    cd /Users/baljinder/objective-c/GameMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/GameMan.hmap -F/Users/baljinder/objective-c/GameMan/build/Debug -I/Users/baljinder/objective-c/GameMan/build/Debug/include -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-glosagigkzxjuyexzrkkxldxlkpx/GameMan_Prefix.pch -c /Users/baljinder/objective-c/GameMan/main.m -o /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/baljinder/objective-c/GameMan/English.lproj/MainMenu.xib
+s342218309.145684
+e342218316.834298
+r1
+xCompileXIB
+x/Users/baljinder/objective-c/GameMan/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib342218309#342218316#0(0"0(0#0#63"/Users/baljinder/objective-c/GameMan/English.lproj/MainMenu.xib168#358"    cd /Users/baljinder/objective-c/GameMan    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/English.lproj/MainMenu.nib /Users/baljinder/objective-c/GameMan/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/baljinder/objective-c/GameMan/English.lproj/MyDocument.xib
+s342218309.146295
+e342218316.835801
+r1
+xCompileXIB
+x/Users/baljinder/objective-c/GameMan/English.lproj/MyDocument.xib
+lSLF07#2@39"CompileXIB English.lproj/MyDocument.xib342218309#342218316#0(0"0(0#0#65"/Users/baljinder/objective-c/GameMan/English.lproj/MyDocument.xib168#362"    cd /Users/baljinder/objective-c/GameMan    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/English.lproj/MyDocument.nib /Users/baljinder/objective-c/GameMan/English.lproj/MyDocument.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s342218309.145003
+e342218312.633762
+r1
+xCopyStringsFile
+x/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings342218309#342218312#0(0"0(0#0#68"/Users/baljinder/objective-c/GameMan/English.lproj/InfoPlist.strings168#362"    cd /Users/baljinder/objective-c/GameMan    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/GameMan.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s342218309.144007
+e342218309.298631
+r1
+xCpResource
+xbuild/Debug/GameMan.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf342218309#342218309#0(0"0(0#0#62"/Users/baljinder/objective-c/GameMan/English.lproj/Credits.rtf168#349"    cd /Users/baljinder/objective-c/GameMan    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/baljinder/objective-c/GameMan/English.lproj/Credits.rtf /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/English.lproj0#
+
+CCreateUniversalBinary /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/MacOS/GameMan normal "x86_64 i386"
+s342218353.556959
+e342218353.614768
+r1
+xCreateUniversalBinary
+x/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/MacOS/GameMan
+xnormal
+xx86_64 i386
+lSLF07#2@89"CreateUniversalBinary build/Debug/GameMan.app/Contents/MacOS/GameMan normal "x86_64 i386"342218353#342218353#0(0"0(0#0#48"/Users/baljinder/objective-c/GameMan/x86_64 i386168#374"    cd /Users/baljinder/objective-c/GameMan    /usr/bin/lipo -create /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/GameMan /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/GameMan -output /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/MacOS/GameMan0#
+
+CDataModelCompile /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/MyDocument.mom /Users/baljinder/objective-c/GameMan/MyDocument.xcdatamodel
+s342218348.036880
+e342218368.617128
+r0
+xDataModelCompile
+x/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/MyDocument.mom
+x/Users/baljinder/objective-c/GameMan/MyDocument.xcdatamodel
+o2011-11-05 16:39:09.666 momc[6441:907] *** Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: '*** -[NSKeyedUnarchiver initForReadingWithData:]: incomprehensible archive (0x62, 0x70, 0x6c, 0x69, 0x73, 0x74, 0x30, 0x30)'
+o*** First throw call stack:
+o(
+o	0   CoreFoundation                      0x00007fff8b4d8286 __exceptionPreprocess + 198
+o	1   libobjc.A.dylib                     0x00007fff92b28d5e objc_exception_throw + 43
+o	2   CoreFoundation                      0x00007fff8b4d80ba +[NSException raise:format:arguments:] + 106
+o	3   CoreFoundation                      0x00007fff8b4d8044 +[NSException raise:format:] + 116
+o	4   Foundation                          0x00007fff9015e6ef -[NSKeyedUnarchiver initForReadingWithData:] + 2611
+o	5   Foundation                          0x00007fff9018d64e +[NSKeyedUnarchiver unarchiveObjectWithFile:] + 129
+o	6   momc                                0x0000000100001647 momc + 5703
+o	7   momc                                0x0000000100001732 momc + 5938
+o	8   momc                                0x00000001000022af momc + 8879
+o	9   momc                                0x0000000100001430 momc + 5168
+o)
+oterminate called throwing an exception
+lSLF07#2@67"Compile /Users/baljinder/objective-c/GameMan/MyDocument.xcdatamodel342218348#342218368#0(1262"2011-11-05 16:39:09.666 momc[6441:907] *** Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: '*** -[NSKeyedUnarchiver initForReadingWithData:]: incomprehensible archive (0x62, 0x70, 0x6c, 0x69, 0x73, 0x74, 0x30, 0x30)'*** First throw call stack:(	0   CoreFoundation                      0x00007fff8b4d8286 __exceptionPreprocess + 198	1   libobjc.A.dylib                     0x00007fff92b28d5e objc_exception_throw + 43	2   CoreFoundation                      0x00007fff8b4d80ba +[NSException raise:format:arguments:] + 106	3   CoreFoundation                      0x00007fff8b4d8044 +[NSException raise:format:] + 116	4   Foundation                          0x00007fff9015e6ef -[NSKeyedUnarchiver initForReadingWithData:] + 2611	5   Foundation                          0x00007fff9018d64e +[NSKeyedUnarchiver unarchiveObjectWithFile:] + 129	6   momc                                0x0000000100001647 momc + 5703	7   momc                                0x0000000100001732 momc + 5938	8   momc                                0x00000001000022af momc + 8879	9   momc                                0x0000000100001430 momc + 5168)terminate called throwing an exceptionCommand /Developer/usr/bin/momc failed with exit code 61(4@55"Command /Developer/usr/bin/momc failed with exit code 6342218368#18446744073709551615#0#0(1@0"0(0#0#59"/Users/baljinder/objective-c/GameMan/MyDocument.xcdatamodel168#256"    cd /Users/baljinder/objective-c/GameMan    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/baljinder/objective-c/GameMan/MyDocument.xcdatamodel /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/MyDocument.mom6#
+
+CLd /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/GameMan normal i386
+s342218351.539796
+e342218353.556865
+r1
+xLd
+x/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/GameMan
+xnormal
+xi386
+lSLF07#2@109"Link /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/GameMan342218351#342218353#0(0"0(0#0#0"168#549"    cd /Users/baljinder/objective-c/GameMan    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/baljinder/objective-c/GameMan/build/Debug -F/Users/baljinder/objective-c/GameMan/build/Debug -filelist /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/GameMan.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/i386/GameMan0#
+
+CLd /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/GameMan normal x86_64
+s342218349.775859
+e342218353.556411
+r1
+xLd
+x/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/GameMan
+xnormal
+xx86_64
+lSLF07#2@111"Link /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/GameMan342218349#342218353#0(0"0(0#0#0"168#555"    cd /Users/baljinder/objective-c/GameMan    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/baljinder/objective-c/GameMan/build/Debug -F/Users/baljinder/objective-c/GameMan/build/Debug -filelist /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/GameMan.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/Objects-normal/x86_64/GameMan0#
+
+CPBXCp build/Debug/GameMan.app/Contents/Resources/../Library/Spotlight/GameMan.mdimporter build/Debug/GameMan.mdimporter
+s342218368.617354
+e342218369.599305
+r1
+xPBXCp
+xbuild/Debug/GameMan.app/Contents/Resources/../Library/Spotlight/GameMan.mdimporter
+xbuild/Debug/GameMan.mdimporter
+lSLF07#2@35"Copy build/Debug/GameMan.mdimporter342218368#342218369#0(0"0(0#0#67"/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter168#361"    cd /Users/baljinder/objective-c/GameMan    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Resources/../Library/Spotlight0#
+
+CProcessInfoPlistFile /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Info.plist GameMan-Info.plist
+s342218309.077639
+e342218309.143316
+r1
+xProcessInfoPlistFile
+x/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Info.plist
+xGameMan-Info.plist
+lSLF07#2@26"Process GameMan-Info.plist342218309#342218309#0(0"0(0#0#55"/Users/baljinder/objective-c/GameMan/GameMan-Info.plist4396408576#304"    cd /Users/baljinder/objective-c/GameMan    builtin-infoPlistUtility GameMan-Info.plist -genpkginfo /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-ecmshhflvcrgqlarudtycehiwejm/GameMan_Prefix.pch.gch GameMan_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s342218316.836951
+e342218348.036640
+r1
+xProcessPCH
+x/var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-ecmshhflvcrgqlarudtycehiwejm/GameMan_Prefix.pch.gch
+xGameMan_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile GameMan_Prefix.pch342218316#342218348#0(0"0(0#0#55"/Users/baljinder/objective-c/GameMan/GameMan_Prefix.pch168#970"    cd /Users/baljinder/objective-c/GameMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/GameMan.hmap -F/Users/baljinder/objective-c/GameMan/build/Debug -I/Users/baljinder/objective-c/GameMan/build/Debug/include -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/DerivedSources/i386 -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/DerivedSources -c /Users/baljinder/objective-c/GameMan/GameMan_Prefix.pch -o /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-ecmshhflvcrgqlarudtycehiwejm/GameMan_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-glosagigkzxjuyexzrkkxldxlkpx/GameMan_Prefix.pch.gch GameMan_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s342218316.836098
+e342218346.428463
+r1
+xProcessPCH
+x/var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-glosagigkzxjuyexzrkkxldxlkpx/GameMan_Prefix.pch.gch
+xGameMan_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile GameMan_Prefix.pch342218316#342218346#0(0"0(0#0#55"/Users/baljinder/objective-c/GameMan/GameMan_Prefix.pch168#974"    cd /Users/baljinder/objective-c/GameMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/GameMan.hmap -F/Users/baljinder/objective-c/GameMan/build/Debug -I/Users/baljinder/objective-c/GameMan/build/Debug/include -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan.build/DerivedSources -c /Users/baljinder/objective-c/GameMan/GameMan_Prefix.pch -o /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GameMan_Prefix-glosagigkzxjuyexzrkkxldxlkpx/GameMan_Prefix.pch.gch0#
+
+CTouch /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.app
+r0
+

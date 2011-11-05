@@ -1,0 +1,229 @@
+TGameMan Spotlight Importer
+v7
+r0
+t342218308.919550
+cCheck dependencies
+cProcessInfoPlistFile /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter/Contents/Info.plist Importer/Importer-Info.plist
+cCompileC "build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GetMetadataForFile.o" /Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/main.o" /Users/baljinder/objective-c/GameMan/Importer/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GetMetadataForFile.o" /Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/main.o" /Users/baljinder/objective-c/GameMan/Importer/main.c normal i386 c com.apple.compilers.gcc.4_2
+cLd "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GameMan" normal i386
+cLd "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GameMan" normal x86_64
+cCreateUniversalBinary /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter/Contents/MacOS/GameMan normal "x86_64 i386"
+cTouch /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BA36F13000000000000043A
+t1269002003
+s1082
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFPlugInCOM.h
+c000000004B90C8A60000000000000E87
+t1267779750
+s3719
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004B90C8A60000000000000AF4
+t1267779750
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004B90FA5D0000000000000401
+t1267792477
+s1025
+
+N/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004E8D7E280000000000584B00
+t1317895720
+s5786368
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E8D7E9B000000000060E710
+t1317895835
+s6350608
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004E96D980000000000000B870
+t1318508928
+s47216
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E8D7F560000000000942480
+t1317896022
+s9708672
+
+N/Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c
+c000000004EB59DBA00000000000007CB
+t1320525242
+s1995
+i<CoreFoundation/CoreFoundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/baljinder/objective-c/GameMan/Importer/main.c
+c000000004EB59DBA000000000000208E
+t1320525242
+s8334
+i<CoreFoundation/CoreFoundation.h>
+i<CoreFoundation/CFPlugInCOM.h>
+i<CoreServices/CoreServices.h>
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter
+t1320525508
+s102
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter/Contents/Info.plist
+t1320525474
+s1348
+
+N/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter/Contents/MacOS/GameMan
+t1320525508
+s35864
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GameMan
+t1320525508
+s15384
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GameMan.LinkFileList
+c000000004EB59EA20000000000000104
+t1320525474
+s260
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GetMetadataForFile.o
+t1320525503
+s9372
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/main.o
+t1320525497
+s9636
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GameMan
+t1320525508
+s15832
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GameMan.LinkFileList
+c000000004EB59EA20000000000000108
+t1320525474
+s264
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GetMetadataForFile.o
+t1320525503
+s10392
+
+N/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/main.o
+t1320525497
+s11184
+
+NImporter/Importer-Info.plist
+c000000004EB59DBA0000000000000993
+t1320525242
+s2451
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342218268#342218274#0(0"0(0#1#0"4392342272#0"0#
+
+CCompileC "build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GetMetadataForFile.o" /Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c normal i386 objective-c com.apple.compilers.gcc.4_2
+s342218274.994276
+e342218303.066815
+r1
+xCompileC
+xbuild/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GetMetadataForFile.o
+x/Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c342218274#342218303#0(0"0(0#0#66"/Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c168#1015"    cd /Users/baljinder/objective-c/GameMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/GameMan.hmap" -F/Users/baljinder/objective-c/GameMan/build/Debug -I/Users/baljinder/objective-c/GameMan/build/Debug/include "-I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/DerivedSources/i386" "-I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/DerivedSources" -c /Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c -o "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GetMetadataForFile.o"0#
+
+CCompileC "build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/main.o" /Users/baljinder/objective-c/GameMan/Importer/main.c normal i386 c com.apple.compilers.gcc.4_2
+s342218274.995285
+e342218297.952260
+r1
+xCompileC
+xbuild/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/main.o
+x/Users/baljinder/objective-c/GameMan/Importer/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/baljinder/objective-c/GameMan/Importer/main.c342218274#342218297#0(0"0(0#0#52"/Users/baljinder/objective-c/GameMan/Importer/main.c168#977"    cd /Users/baljinder/objective-c/GameMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/GameMan.hmap" -F/Users/baljinder/objective-c/GameMan/build/Debug -I/Users/baljinder/objective-c/GameMan/build/Debug/include "-I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/DerivedSources/i386" "-I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/DerivedSources" -c /Users/baljinder/objective-c/GameMan/Importer/main.c -o "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GetMetadataForFile.o" /Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s342218274.975019
+e342218303.196878
+r1
+xCompileC
+xbuild/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GetMetadataForFile.o
+x/Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c342218274#342218303#0(0"0(0#0#66"/Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c168#1021"    cd /Users/baljinder/objective-c/GameMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/GameMan.hmap" -F/Users/baljinder/objective-c/GameMan/build/Debug -I/Users/baljinder/objective-c/GameMan/build/Debug/include "-I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/DerivedSources/x86_64" "-I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/DerivedSources" -c /Users/baljinder/objective-c/GameMan/Importer/GetMetadataForFile.c -o "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GetMetadataForFile.o"0#
+
+CCompileC "build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/main.o" /Users/baljinder/objective-c/GameMan/Importer/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s342218274.992739
+e342218297.962770
+r1
+xCompileC
+xbuild/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/main.o
+x/Users/baljinder/objective-c/GameMan/Importer/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/baljinder/objective-c/GameMan/Importer/main.c342218274#342218297#0(0"0(0#0#52"/Users/baljinder/objective-c/GameMan/Importer/main.c168#983"    cd /Users/baljinder/objective-c/GameMan    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/GameMan.hmap" -F/Users/baljinder/objective-c/GameMan/build/Debug -I/Users/baljinder/objective-c/GameMan/build/Debug/include "-I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/DerivedSources/x86_64" "-I/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/DerivedSources" -c /Users/baljinder/objective-c/GameMan/Importer/main.c -o "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/main.o"0#
+
+CCreateUniversalBinary /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter/Contents/MacOS/GameMan normal "x86_64 i386"
+s342218308.539116
+e342218308.815093
+r1
+xCreateUniversalBinary
+x/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter/Contents/MacOS/GameMan
+xnormal
+xx86_64 i386
+lSLF07#2@96"CreateUniversalBinary build/Debug/GameMan.mdimporter/Contents/MacOS/GameMan normal "x86_64 i386"342218308#342218308#0(0"0(0#0#48"/Users/baljinder/objective-c/GameMan/x86_64 i386168#423"    cd /Users/baljinder/objective-c/GameMan    /usr/bin/lipo -create "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GameMan" "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GameMan" -output /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter/Contents/MacOS/GameMan0#
+
+CLd "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GameMan" normal i386
+s342218303.067062
+e342218308.538994
+r1
+xLd
+x/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GameMan
+xnormal
+xi386
+lSLF07#2@128"Link /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GameMan342218303#342218308#0(0"0(0#0#0"168#674"    cd /Users/baljinder/objective-c/GameMan    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/baljinder/objective-c/GameMan/build/Debug -F/Users/baljinder/objective-c/GameMan/build/Debug -filelist "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GameMan.LinkFileList" -mmacosx-version-min=10.6 -framework CoreFoundation -framework CoreData -framework Foundation -framework CoreServices -o "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/i386/GameMan"0#
+
+CLd "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GameMan" normal x86_64
+s342218303.197093
+e342218308.538525
+r1
+xLd
+x/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GameMan
+xnormal
+xx86_64
+lSLF07#2@130"Link /Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GameMan342218303#342218308#0(0"0(0#0#0"168#680"    cd /Users/baljinder/objective-c/GameMan    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/baljinder/objective-c/GameMan/build/Debug -F/Users/baljinder/objective-c/GameMan/build/Debug -filelist "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GameMan.LinkFileList" -mmacosx-version-min=10.6 -framework CoreFoundation -framework CoreData -framework Foundation -framework CoreServices -o "/Users/baljinder/objective-c/GameMan/build/GameMan.build/Debug/GameMan Spotlight Importer.build/Objects-normal/x86_64/GameMan"0#
+
+CProcessInfoPlistFile /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter/Contents/Info.plist Importer/Importer-Info.plist
+s342218274.805617
+e342218274.974794
+r1
+xProcessInfoPlistFile
+x/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter/Contents/Info.plist
+xImporter/Importer-Info.plist
+lSLF07#2@36"Process Importer/Importer-Info.plist342218274#342218274#0(0"0(0#0#65"/Users/baljinder/objective-c/GameMan/Importer/Importer-Info.plist4396803328#231"    cd /Users/baljinder/objective-c/GameMan    builtin-infoPlistUtility Importer/Importer-Info.plist -expandbuildsettings -platform macosx -o /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter/Contents/Info.plist0#
+
+CTouch /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter
+s342218308.815324
+e342218308.919426
+r1
+xTouch
+x/Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter
+lSLF07#2@73"Touch /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter342218308#342218308#0(0"0(0#0#0"168#134"    cd /Users/baljinder/objective-c/GameMan    /usr/bin/touch -c /Users/baljinder/objective-c/GameMan/build/Debug/GameMan.mdimporter0#
+
