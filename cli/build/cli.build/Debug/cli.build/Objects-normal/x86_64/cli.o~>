@@ -1,5 +1,5 @@
 /Users/baljinder/objective-c/cli/cli.m: In function 'main':
-/Users/baljinder/objective-c/cli/cli.m:11: warning: format not a string literal and no format arguments
-/Users/baljinder/objective-c/cli/cli.m:12: warning: format not a string literal and no format arguments
-/Users/baljinder/objective-c/cli/cli.m:13: warning: format not a string literal and no format arguments
-/Users/baljinder/objective-c/cli/cli.m:14: warning: format not a string literal and no format arguments
+/Users/baljinder/objective-c/cli/cli.m:28: warning: format not a string literal and no format arguments
+/Users/baljinder/objective-c/cli/cli.m:29: warning: format not a string literal and no format arguments
+/Users/baljinder/objective-c/cli/cli.m:30: warning: format not a string literal and no format arguments
+/Users/baljinder/objective-c/cli/cli.m:31: warning: format not a string literal and no format arguments

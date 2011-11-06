@@ -266,7 +266,6 @@
 								<string>08FB7794FE84155DC02AAC07</string>
 								<string>08FB7795FE84155DC02AAC07</string>
 								<string>1C37FBAC04509CD000000102</string>
-								<string>C201E7731466062A00F2B12F</string>
 								<string>1C37FAAC04509CD000000102</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
@@ -328,13 +327,12 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>C201E7DD14660C5D00F2B12F</string>
+										<string>C201E7FB14660E2D00F2B12F</string>
 										<key>history</key>
 										<array>
-											<string>C201E7D414660C2600F2B12F</string>
-											<string>C201E7D514660C2600F2B12F</string>
-											<string>C201E7D614660C2600F2B12F</string>
 											<string>C201E7D714660C2600F2B12F</string>
+											<string>C201E7D514660C2600F2B12F</string>
+											<string>C201E7FA14660E2D00F2B12F</string>
 											<string>C201E7D814660C2600F2B12F</string>
 										</array>
 									</dict>
@@ -347,14 +345,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1232, 693}}</string>
+								<string>{{0, 0}, {1232, 687}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 60 1440 818 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>693pt</string>
+							<string>687pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -367,14 +365,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 698}, {1232, 79}}</string>
+								<string>{{0, 692}, {1232, 85}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 60 1440 818 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>79pt</string>
+							<string>85pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -393,9 +391,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>C201E70B1465EB7400F2B12F</string>
+				<string>C201E7FC14660E2D00F2B12F</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>C201E70C1465EB7400F2B12F</string>
+				<string>C201E7FD14660E2D00F2B12F</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -533,10 +531,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>C201E77A1466062A00F2B12F</string>
-		<string>C201E77B1466062A00F2B12F</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>C201E70E1465EB7400F2B12F</string>
 		<string>/Users/baljinder/objective-c/cli/cli.xcodeproj</string>
 	</array>
@@ -562,7 +556,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>EmployeeService.m</string>
+								<string></string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -579,8 +573,6 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -620,7 +612,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>C201E70E1465EB7400F2B12F</string>
-				<string>C201E70F1465EB7400F2B12F</string>
+				<string>C201E7FE14660E2D00F2B12F</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
