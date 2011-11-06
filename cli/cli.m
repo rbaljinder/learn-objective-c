@@ -14,6 +14,7 @@ void buildEmployeeDatabase(EmployeeService* employeeService){
 	[employeeService addEmployee: chintan];
 } 
 
+<<<<<<< Updated upstream
 int main (int argc, const char * argv[]) {
 	EmployeeService* employeeService = [[EmployeeService alloc] init];
 	buildEmployeeDatabase(employeeService);
@@ -23,6 +24,18 @@ int main (int argc, const char * argv[]) {
 	NSLog(@"Searching for Nobody");	
 	[employeeService listEmployee:[employeeService getEmployeeByFName:@"Nobody"]];	
 	[employeeService release];
+=======
+    // insert code here...
+    NSLog(@"Hello, World!");
+    [pool drain];*/
+	Employee *employee = [[Employee alloc]init];
+	NSLog([employee getFullName]);
+		NSLog([employee getFullName]);
+	NSLog([employee getFullName]);
+	NSLog([employee getFullName]);
+
+	[employee release];
+>>>>>>> Stashed changes
     return 0;
 }
 
