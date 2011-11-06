@@ -327,7 +327,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>C201E7FB14660E2D00F2B12F</string>
+										<string>C201E80B146610C000F2B12F</string>
 										<key>history</key>
 										<array>
 											<string>C201E7D714660C2600F2B12F</string>
@@ -531,8 +531,12 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>C201E80C146610C000F2B12F</string>
+		<string>C201E80D146610C000F2B12F</string>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>C201E70E1465EB7400F2B12F</string>
 		<string>/Users/baljinder/objective-c/cli/cli.xcodeproj</string>
+		<string>1C78EAAD065D492600B07095</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 60 1440 818 0 0 1440 878 </string>
@@ -656,8 +660,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 185}}</string>
-											<string>{{316, 0}, {378, 185}}</string>
+											<string>{{0, 0}, {316, 194}}</string>
+											<string>{{316, 0}, {378, 194}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -672,8 +676,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 185}}</string>
-											<string>{{0, 185}, {694, 196}}</string>
+											<string>{{0, 0}, {694, 194}}</string>
+											<string>{{0, 194}, {694, 187}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -699,14 +703,14 @@
 									<key>DebugVariablesTableConfiguration</key>
 									<array>
 										<string>Name</string>
-										<real>120</real>
+										<real>125</real>
 										<string>Value</string>
-										<real>85</real>
+										<real>90</real>
 										<string>Summary</string>
-										<real>148</real>
+										<real>138</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 185}}</string>
+									<string>{{316, 0}, {378, 194}}</string>
 									<key>RubberWindowFrame</key>
 									<string>373 357 694 422 0 0 1440 878 </string>
 								</dict>
@@ -734,13 +738,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>C201E7201465ED5900F2B12F</string>
+				<string>C201E802146610A800F2B12F</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>C201E7211465ED5900F2B12F</string>
-				<string>C201E7221465ED5900F2B12F</string>
-				<string>C201E7231465ED5900F2B12F</string>
-				<string>C201E7241465ED5900F2B12F</string>
-				<string>C201E7251465ED5900F2B12F</string>
+				<string>C201E803146610A800F2B12F</string>
+				<string>C201E804146610A800F2B12F</string>
+				<string>C201E805146610A800F2B12F</string>
+				<string>C201E806146610A800F2B12F</string>
+				<string>C201E807146610A800F2B12F</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -904,7 +908,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>C201E7261465ED5900F2B12F</string>
+				<string>C201E808146610A800F2B12F</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>
@@ -914,7 +918,7 @@
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>Identifier</key>

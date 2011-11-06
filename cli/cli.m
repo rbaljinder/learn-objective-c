@@ -12,6 +12,10 @@ void buildEmployeeDatabase(EmployeeService* employeeService){
 	Employee* chintan = [[Employee alloc]init];
 	[chintan setFirstAndLastName:@"Chintan" :@"Ghandhi"];
 	[employeeService addEmployee: chintan];
+	Employee* vinod = [[Employee alloc]init];
+	[vinod setFirstAndLastName:@"Vinod" :@"Arichella"];
+	[employeeService addEmployee: vinod];
+	
 } 
 
 int main (int argc, const char * argv[]) {
@@ -23,12 +27,7 @@ int main (int argc, const char * argv[]) {
 	NSLog(@"Searching for Nobody");	
 	[employeeService listEmployee:[employeeService getEmployeeByFName:@"Nobody"]];	
 	[employeeService release];
-    NSLog(@"Hello, World!");
 	Employee *employee = [[Employee alloc]init];
-	NSLog([employee getFullName]);
-		NSLog([employee getFullName]);
-	NSLog([employee getFullName]);
-	NSLog([employee getFullName]);
 	[employee release];
     return 0;
 }
