@@ -17,7 +17,7 @@
 -(Employee*) getEmployeeByFName:(NSString*)FName;
 -(Employee*) getEmployeeByLName:(NSString*)lName;
 -(Employee*) getEmployeeByFNameAndLName:(NSString*)fName :(NSString*)lName;
--(NSArray*) getAllEmployees;
+-(NSMutableArray*) getAllEmployees;
 -(void) listAllEmployee;
 -(void) listEmployee:(Employee*)employee;
 @end

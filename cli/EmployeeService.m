@@ -65,8 +65,9 @@
 	NSLog(@"Employee:");
 	NSLog(@"	First Name :%@",[employee firstName]);
 	NSLog(@"	Last Name :%@",[employee lastName]);
-//	NSLog([employee firstName]);
-//	NSLog([employee lastName]);
 }
-
+-(void) dealloc{
+	[employees release];
+	[super dealloc];
+}
 @end
