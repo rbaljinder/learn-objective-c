@@ -22,6 +22,9 @@
 -(void) setFirstName: (NSString*)fName;
 -(void) setLastName: (NSString*)lName;
 
+-(void) setFirstAndLastName:(NSString*)fName :(NSString*)lName;
+-(void) setFAndLName:(NSString*)fName:(NSString*)lName;
+
 -(NSString*) getFullName;
 
 @end

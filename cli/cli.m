@@ -1,15 +1,18 @@
 #import <Foundation/Foundation.h>
 #import "Employee.h"
-
+#import "EmployeeService.h"
 int main (int argc, const char * argv[]) {
-/*    NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
-
-    // insert code here...
-    NSLog(@"Hello, World!");
-    [pool drain];*/
-	Employee *employee = [[Employee alloc]init];
-	NSLog([employee getFullName]);
-		NSLog([employee getFullName]);
-	[employee release];
+	EmployeeService* employeeService = [[EmployeeService alloc] init];
+	Employee* manish = [[Employee alloc]init];
+	[manish setFirstAndLastName:@"Manish" :@"Chandel"];
+	[employeeService addEmployee:manish];
+	Employee* baljinder = [[Employee alloc]init];
+	[baljinder setFirstAndLastName:@"Baljinder" :@"Randhawa"];
+	[employeeService addEmployee:baljinder];
+	Employee* chintan = [[Employee alloc]init];
+	[chintan setFirstAndLastName:@"Chintan" :@"Ghandhi"];
+	[employeeService addEmployee: chintan];
+	[employeeService listAllEmployee];
+	[employeeService release];
     return 0;
 }

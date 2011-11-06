@@ -33,7 +33,14 @@
 -(void) setLastName:(NSString *)lName{
 	lastName= lName;
 }
-
+-(void) setFirstAndLastName:(NSString *)fName :(NSString *)lName{
+	firstName = fName;
+	lastName = lName;
+}
+-(void) setFAndLName:(NSString *)fName :(NSString *)lName{
+	firstName = fName;
+	lastName = lName;
+}
 
 -(NSString*) getFullName{
 	return [firstName stringByAppendingString:[@" " stringByAppendingString: lastName]];

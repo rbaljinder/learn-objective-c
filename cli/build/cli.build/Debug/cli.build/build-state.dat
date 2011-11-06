@@ -1,11 +1,12 @@
 Tcli
 v7
 r0
-t342225226.904857
+t342231287.690494
 cCheck dependencies
 cProcessPCH /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cli_Prefix-gcddcoviegkbztfuvcfgudicazza/cli_Prefix.pch.gch cli_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/cli.build/Debug/cli.build/Objects-normal/x86_64/cli.o /Users/baljinder/objective-c/cli/cli.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/cli.build/Debug/cli.build/Objects-normal/x86_64/Employee.o /Users/baljinder/objective-c/cli/Employee.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/cli.build/Debug/cli.build/Objects-normal/x86_64/EmployeeService.o /Users/baljinder/objective-c/cli/EmployeeService.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cLd /Users/baljinder/objective-c/cli/build/Debug/cli normal x86_64
 
 N/Developer/SDKs/MacOSX10.6.sdk
@@ -29,40 +30,58 @@ t1317896022
 s9708672
 
 N/Users/baljinder/objective-c/cli/Employee.h
-c000000004EB5B438000000000000019A
-t1320531000
-s410
+c000000004EB5C1CF0000000000000213
+t1320534479
+s531
 i<Cocoa/Cocoa.h>
 
 N/Users/baljinder/objective-c/cli/Employee.m
-c000000004EB5B9C400000000000002D7
-t1320532420
-s727
+c000000004EB5C1E100000000000003A5
+t1320534497
+s933
 i"Employee.h"
+
+N/Users/baljinder/objective-c/cli/EmployeeService.h
+c000000004EB5D0F20000000000000244
+t1320538354
+s580
+i<Cocoa/Cocoa.h>
+i"Employee.h"
+
+N/Users/baljinder/objective-c/cli/EmployeeService.m
+c000000004EB5D16F00000000000005B1
+t1320538479
+s1457
+i"EmployeeService.h"
 
 N/Users/baljinder/objective-c/cli/build/Debug/cli
-t1320532426
-s15144
+t1320538487
+s17384
 
 N/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/Objects-normal/x86_64/Employee.o
-t1320532426
-s11812
+t1320537194
+s13172
+
+N/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/Objects-normal/x86_64/EmployeeService.o
+t1320538487
+s16200
 
 N/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/Objects-normal/x86_64/cli.LinkFileList
-c000000004EB5B47C00000000000000BF
-t1320531068
-s191
+c000000004EB5CC690000000000000128
+t1320537193
+s296
 
 N/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/Objects-normal/x86_64/cli.o
-t1320531780
-s6856
+t1320538468
+s8536
 
 N/Users/baljinder/objective-c/cli/cli.m
-c000000004EB5B7270000000000000196
-t1320531751
-s406
+c000000004EB5D152000000000000033F
+t1320538450
+s831
 i<Foundation/Foundation.h>
 i"Employee.h"
+i"EmployeeService.h"
 
 N/Users/baljinder/objective-c/cli/cli_Prefix.pch
 c000000004EB5B3EC0000000000000094
@@ -76,11 +95,11 @@ s41401104
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies342225226#342225226#0(0"0(0#1#0"4530373920#0"0#
+lSLF07#2@18"Check dependencies342231287#342231287#0(0"0(0#1#0"4530910496#0"0#
 
 CCompileC build/cli.build/Debug/cli.build/Objects-normal/x86_64/Employee.o /Users/baljinder/objective-c/cli/Employee.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s342225226.485995
-e342225226.888086
+s342229993.836839
+e342229994.384459
 r1
 xCompileC
 xbuild/cli.build/Debug/cli.build/Objects-normal/x86_64/Employee.o
@@ -89,11 +108,26 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@51"Compile /Users/baljinder/objective-c/cli/Employee.m342225226#342225226#0(0"0(0#0#43"/Users/baljinder/objective-c/cli/Employee.m4530372192#1308"    cd /Users/baljinder/objective-c/cli    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-generated-files.hmap -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-own-target-headers.hmap -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-all-target-headers.hmap -iquote /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-project-headers.hmap -F/Users/baljinder/objective-c/cli/build/Debug -I/Users/baljinder/objective-c/cli/build/Debug/include -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cli_Prefix-gcddcoviegkbztfuvcfgudicazza/cli_Prefix.pch -c /Users/baljinder/objective-c/cli/Employee.m -o /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/Objects-normal/x86_64/Employee.o0#
+lSLF07#2@51"Compile /Users/baljinder/objective-c/cli/Employee.m342229993#342229994#0(0"0(0#0#43"/Users/baljinder/objective-c/cli/Employee.m4530908768#1308"    cd /Users/baljinder/objective-c/cli    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-generated-files.hmap -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-own-target-headers.hmap -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-all-target-headers.hmap -iquote /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-project-headers.hmap -F/Users/baljinder/objective-c/cli/build/Debug -I/Users/baljinder/objective-c/cli/build/Debug/include -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cli_Prefix-gcddcoviegkbztfuvcfgudicazza/cli_Prefix.pch -c /Users/baljinder/objective-c/cli/Employee.m -o /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/Objects-normal/x86_64/Employee.o0#
+
+CCompileC build/cli.build/Debug/cli.build/Objects-normal/x86_64/EmployeeService.o /Users/baljinder/objective-c/cli/EmployeeService.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s342231287.294818
+e342231287.673698
+r1
+xCompileC
+xbuild/cli.build/Debug/cli.build/Objects-normal/x86_64/EmployeeService.o
+x/Users/baljinder/objective-c/cli/EmployeeService.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/baljinder/objective-c/cli/EmployeeService.m: In function '-[EmployeeService getAllEmployees]':
+o/Users/baljinder/objective-c/cli/EmployeeService.m:24: warning: incompatible Objective-C types initializing 'struct NSArray *', expected 'struct NSMutableArray *'
+lSLF07#2@58"Compile /Users/baljinder/objective-c/cli/EmployeeService.m342231287#342231287#0(265"/Users/baljinder/objective-c/cli/EmployeeService.m: In function '-[EmployeeService getAllEmployees]':/Users/baljinder/objective-c/cli/EmployeeService.m:24: warning: incompatible Objective-C types initializing 'struct NSArray *', expected 'struct NSMutableArray *'1(22@98"Incompatible Objective-C types initializing 'struct NSArray *', expected 'struct NSMutableArray *'342231287#102#163#0(6@50"/Users/baljinder/objective-c/cli/EmployeeService.m342231279#24#0#24#0#61"incompatible Objective-C types initializing '*', expected '*'0(0#0#50"/Users/baljinder/objective-c/cli/EmployeeService.m4530908768#1322"    cd /Users/baljinder/objective-c/cli    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-generated-files.hmap -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-own-target-headers.hmap -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-all-target-headers.hmap -iquote /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-project-headers.hmap -F/Users/baljinder/objective-c/cli/build/Debug -I/Users/baljinder/objective-c/cli/build/Debug/include -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cli_Prefix-gcddcoviegkbztfuvcfgudicazza/cli_Prefix.pch -c /Users/baljinder/objective-c/cli/EmployeeService.m -o /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/Objects-normal/x86_64/EmployeeService.o0#
 
 CCompileC build/cli.build/Debug/cli.build/Objects-normal/x86_64/cli.o /Users/baljinder/objective-c/cli/cli.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s342224578.200120
-e342224580.626085
+s342231268.441283
+e342231268.768169
 r1
 xCompileC
 xbuild/cli.build/Debug/cli.build/Objects-normal/x86_64/cli.o
@@ -102,19 +136,17 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-o/Users/baljinder/objective-c/cli/cli.m: In function 'main':
-o/Users/baljinder/objective-c/cli/cli.m:11: warning: format not a string literal and no format arguments
-lSLF07#2@46"Compile /Users/baljinder/objective-c/cli/cli.m342224578#342224580#0(164"/Users/baljinder/objective-c/cli/cli.m: In function 'main':/Users/baljinder/objective-c/cli/cli.m:11: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments342224578#60#104#0(6@38"/Users/baljinder/objective-c/cli/cli.m342224551#11#0#11#0#51"format not a string literal and no format arguments0(0#0#38"/Users/baljinder/objective-c/cli/cli.m4519902816#1298"    cd /Users/baljinder/objective-c/cli    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-generated-files.hmap -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-own-target-headers.hmap -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-all-target-headers.hmap -iquote /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-project-headers.hmap -F/Users/baljinder/objective-c/cli/build/Debug -I/Users/baljinder/objective-c/cli/build/Debug/include -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cli_Prefix-gcddcoviegkbztfuvcfgudicazza/cli_Prefix.pch -c /Users/baljinder/objective-c/cli/cli.m -o /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/Objects-normal/x86_64/cli.o0#
+lSLF07#2@46"Compile /Users/baljinder/objective-c/cli/cli.m342231268#342231268#0(0"0(0#0#38"/Users/baljinder/objective-c/cli/cli.m4514332256#1298"    cd /Users/baljinder/objective-c/cli    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-generated-files.hmap -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-own-target-headers.hmap -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-all-target-headers.hmap -iquote /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/cli-project-headers.hmap -F/Users/baljinder/objective-c/cli/build/Debug -I/Users/baljinder/objective-c/cli/build/Debug/include -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/DerivedSources/x86_64 -I/Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/DerivedSources -include /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cli_Prefix-gcddcoviegkbztfuvcfgudicazza/cli_Prefix.pch -c /Users/baljinder/objective-c/cli/cli.m -o /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/Objects-normal/x86_64/cli.o0#
 
 CLd /Users/baljinder/objective-c/cli/build/Debug/cli normal x86_64
-s342225226.888205
-e342225226.904797
+s342231287.673780
+e342231287.690443
 r1
 xLd
 x/Users/baljinder/objective-c/cli/build/Debug/cli
 xnormal
 xx86_64
-lSLF07#2@53"Link /Users/baljinder/objective-c/cli/build/Debug/cli342225226#342225226#0(0"0(0#0#0"4530372192#474"    cd /Users/baljinder/objective-c/cli    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/baljinder/objective-c/cli/build/Debug -F/Users/baljinder/objective-c/cli/build/Debug -filelist /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/Objects-normal/x86_64/cli.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/baljinder/objective-c/cli/build/Debug/cli0#
+lSLF07#2@53"Link /Users/baljinder/objective-c/cli/build/Debug/cli342231287#342231287#0(0"0(0#0#0"4530908768#474"    cd /Users/baljinder/objective-c/cli    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/baljinder/objective-c/cli/build/Debug -F/Users/baljinder/objective-c/cli/build/Debug -filelist /Users/baljinder/objective-c/cli/build/cli.build/Debug/cli.build/Objects-normal/x86_64/cli.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/baljinder/objective-c/cli/build/Debug/cli0#
 
 CProcessPCH /var/folders/2x/jz0s82kx4d3bwfrb1_jvfccr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/cli_Prefix-gcddcoviegkbztfuvcfgudicazza/cli_Prefix.pch.gch cli_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s342223868.923439
